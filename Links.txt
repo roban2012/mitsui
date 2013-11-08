@@ -34,6 +34,7 @@ Old:
 <a href= "link16.html">联合国全球契约</a><br><br>
 <a href= "link17.html">三井物产商业新闻</a><br><br>
 <a href= "link18.html">三井物产有关评述</a><br><br>
+<a href= "link19.html">中国化工（范旭东）</a><br><br>
  
 
 <a href= "pic01.html">Vale矿物资源开发合作</a><br><br>
